@@ -2,12 +2,16 @@
     margin-top: 100px;
     margin-bottom: 50px;
 }
-
 .iframe {
     width: 100%;
 }
-
 .about {
     margin-top: 100px;
 }
-
+.main {
+    margin-top: 100px;
+}
+.form {
+    background-color: white;
+    padding: 30px;
+}
